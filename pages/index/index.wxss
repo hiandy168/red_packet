@@ -11,13 +11,13 @@
   position:absolute;
   top:0;
   height:60%;
-  background: url('http://hongbao.h5h5h5.cn/BizHall/redApp/images/img_cover_up.png') center center no-repeat;
+  background: url('http://hongbao.h5h5h5.cn/BizHall/redApp/images/img_cover_up.png') bottom center no-repeat;
 }
 .cover_down{
   position:absolute;
   bottom:0;
   height:55%;
-  background: url('http://hongbao.h5h5h5.cn/BizHall/redApp/images/img_cover_down.png') center center no-repeat;
+  background: url('http://hongbao.h5h5h5.cn/BizHall/redApp/images/img_cover_down.png') bottom center no-repeat;
 }
 .cover_up,.cover_down{
   left:0;
